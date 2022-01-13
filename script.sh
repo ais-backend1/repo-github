@@ -1,1 +1,2 @@
-touch fileku(1..5).txt
+touch fileku{1..5}.txt
+
